@@ -1,0 +1,11 @@
+# Editor directories and files
+.idea
+.vscode
+.vs
+files
+*.db
+local_settings.py
+*.spec
+__pycache__
+dist
+build
